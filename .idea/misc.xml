@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/study/SLIIT/Semesters/4th year 2nd sem/EAD/FuelApp/app/src/main/res/layout/activity_main.xml" value="0.14221014492753623" />
+        <entry key="..\:/study/SLIIT/Semesters/4th year 2nd sem/EAD/FuelApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/study/SLIIT/Semesters/4th year 2nd sem/EAD/FuelApp/app/src/main/res/layout/activity_sign_up.xml" value="0.17074275362318841" />
+        <entry key="..\:/study/SLIIT/Semesters/4th year 2nd sem/EAD/FuelApp/app/src/main/res/layout/register.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>

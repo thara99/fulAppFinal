@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FuelApp">
         <activity
-            android:name=".SignUp"
+            android:name=".FuelType"
+            android:exported="false" />
+        <activity
+            android:name=".Times"
+            android:exported="false" />
+        <activity
+            android:name=".AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".signUp"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
